@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		}
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://yur.co.il/</title>
+  <link>http://yur.co.il/</link>
+
+<item>
+     <link>https://yur.co.il/</link>
+     <title>Tatyana Yurkovsky - Plumbing Consultant</title>
+     <description>טטיאנה יורקובסקי - יועצת אינסטלציה</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yur.co.il/eng.html</link>
+     <title>Tatyana Yurkovsky - Plumbing Consultant</title>
+     <description>The Curriculum Vitae of Tatyana Yurkovsky - Plumbing Consultant</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://yur.co.il/index.html</link>
+     <title>Tatyana Yurkovsky - Plumbing Consultant</title>
+     <description>טטיאנה יורקובסקי - יועצת אינסטלציה</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
